@@ -2,6 +2,9 @@
 
 A sleek, responsive music player application built with React, Redux, and Tailwind CSS. Discover new music, explore top charts, and enjoy a seamless listening experience.
 
+This app uses Real-Time data connected to Rapid API to display the `TOP 50 SONGS` according to charts. For showcasing reasons, there is mock data stored as a fallback for 
+when the API is unreachable.
+
 ## Features
 
 - 🎵 Discover new music and trending songs
@@ -11,6 +14,8 @@ A sleek, responsive music player application built with React, Redux, and Tailwi
 - 📱 Fully responsive design
 - 🌐 Global music charts
 - 🎨 Modern UI with smooth animations
+
+# Screenshots
 
 ## Tech Stack
 
