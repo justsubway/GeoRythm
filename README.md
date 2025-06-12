@@ -15,13 +15,13 @@ when the API is unreachable.
 - 🌐 Global music charts
 - 🎨 Modern UI with smooth animations
 
+# Live Demo
+You can view a live demo of the website [here](https://justsubway.github.io/GeoRythm)
+
 # Screenshots
 
 ![Screenshot 1](https://i.imgur.com/TWsaINJ.png)
 ![Screenshot 2](https://i.imgur.com/6fwwxx8.png)
-
-# Live Demo
-You can view a live demo of the website [here](https://justsubway.github.io/GeoRythm)
 
 ## Tech Stack
 
