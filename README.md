@@ -20,6 +20,8 @@ when the API is unreachable.
 ![Screenshot 1](https://i.imgur.com/TWsaINJ.png)
 ![Screenshot 2](https://i.imgur.com/6fwwxx8.png)
 
+# Live Demo
+You can view a live demo of the website [here](https://justsubway.github.io/GeoRythm)
 
 ## Tech Stack
 
