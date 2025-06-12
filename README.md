@@ -17,8 +17,9 @@ when the API is unreachable.
 
 # Screenshots
 
-https://i.imgur.com/TWsaINJ.png
-https://i.imgur.com/6fwwxx8.png
+![Screenshot 1](https://i.imgur.com/TWsaINJ.png)
+![Screenshot 2](https://i.imgur.com/6fwwxx8.png)
+
 
 ## Tech Stack
 
